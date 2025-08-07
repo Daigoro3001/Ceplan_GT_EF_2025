@@ -4,7 +4,7 @@
   "logo": "logo_ceplan.png",
   "logo_dark": "logo_ceplan_dark.png",
   "tematicas": {
-    "Ambiental": {
+    "Ambiente": {
       "color": "#4CAF50",
       "terminos": [
         {
@@ -12,7 +12,7 @@
           "descripcion": "El Fenómeno de El Niño es un evento climático caracterizado por el calentamiento anómalo de las aguas del océano Pacífico ecuatorial, el cual altera los patrones meteorológicos a nivel global. El cambio climático y el aumento de la temperatura oceánica han intensificado su frecuencia y magnitud, incrementando la probabilidad de un episodio extraordinario con impactos devastadores. Las alteraciones en las corrientes marinas y la atmósfera provocan eventos extremos como sequías prolongadas, inundaciones severas, pérdida de cultivos y crisis en la seguridad hídrica y alimentaria. En un contexto de calentamiento global acelerado, los gobiernos y organismos internacionales enfrentan desafíos en la planificación de respuestas ante eventos climáticos sin precedentes, aumentando el debate sobre la necesidad de implementar estrategias de adaptación climática y geoingeniería."
         },
         {
-          "termino": "Liberación de patógenos por deshielo de glaciares ",
+          "termino": "Erupción volcanica de gran magnitud ",
           "descripcion": "El deshielo acelerado de los glaciares debido al cambio climático está liberando microorganismos y patógenos prehistóricos que han permanecido atrapados en el hielo durante milenios. El aumento global de las temperaturas, la actividad minera en regiones árticas y el derretimiento del permafrost están exponiendo bacterias y virus potencialmente desconocidos, algunos de los cuales podrían ser resistentes a los antibióticos modernos o representar riesgos sanitarios imprevistos. Como impacto, esta liberación podría dar lugar a brotes de enfermedades nuevas o la reactivación de patógenos extintos, afectando la biodiversidad y la salud pública. Además, el aumento del tráfico humano en el Ártico y la Antártida facilita la dispersión de estos microorganismos, lo que podría desencadenar crisis sanitarias de difícil contención. En un contexto de crisis climática, la comunidad científica advierte sobre la necesidad de monitorear los glaciares y fortalecer la vigilancia epidemiológica para evitar posibles pandemias emergentes."
         },
         {
