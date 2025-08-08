@@ -1,34 +1,501 @@
 {
   "titulo": "Glosario de términos: Eventos Futuros.",
   "descripcion": "El presente tiene por finalidad presentar la definición de los eventos futuros identificados por el Centro Nacional de Planeamiento Estratégico (Ceplan) de acuerdo con las temáticas de estudio, los cuales serán empleados en la “Consulta técnica a expertos sobre eventos futuros 2026-2046+",
+  "logo": "logo_ceplan.png",
   "logo_dark": "logo_ceplan_dark.png",
   "tematicas": {
-    "Económica": {
+    "Ambiente": {
       "color": "#FFC107",
       "terminos": [
         {
-          "termino": "Colapso económico en Estados Unidos ",
-          "descripcion": "Una combinación de crisis de deuda, disrupción en cadenas de suministro, inestabilidad política y pérdida de confianza en el dólar podría desencadenar un colapso económico en Estados Unidos, con efectos en todo el sistema financiero global. El aumento del déficit fiscal, la competencia con China, el declive del petrodólar y una posible recesión prolongada son factores que aceleran este escenario, debilitando la posición de EE.UU. como centro del comercio y actividad económica mundial. Como impacto, un colapso económico podría provocar la fuga masiva de capitales, la caída del mercado laboral, un incremento en la desigualdad y crisis sociales con protestas y descontento generalizado. En un contexto de creciente incertidumbre geopolítica, el declive económico estadounidense podría reconfigurar el orden global, fortaleciendo bloques alternativos como los BRICS y acelerando la desdolarización de la economía mundial."
+          "termino": "Extraordinario Fenómeno de El Niño",
+          "descripcion": "El Fenómeno de El Niño es un evento climático donde se calientan anormalmente las aguas del océano Pacífico ecuatorial, alterando el clima en todo el mundo."
         },
         {
-          "termino": "Prolongada interrupción en la cadena de semiconductores ",
-          "descripcion": "La fabricación global de semiconductores, esenciales para industrias como la electrónica, la automoción y la inteligencia artificial, puede enfrentar una interrupción prolongada debido a una combinación de factores geopolíticos, desastres naturales y crisis en la cadena de suministro. Las tensiones entre EE.UU. y China, la concentración de la producción en Taiwán y Corea del Sur, la escasez de materiales clave como tierras raras, y el impacto de eventos climáticos extremos en plantas de producción están aumentando la vulnerabilidad del sector. Como impacto, esta crisis provocaría disrupciones en la fabricación de dispositivos electrónicos, ralentización del desarrollo tecnológico, alza de precios en productos clave y debilitamiento de sectores industriales estratégicos, afectando el crecimiento económico global. En un contexto de relocalización de la producción (nearshoring) y competencia por la autosuficiencia tecnológica, los gobiernos y empresas buscan descentralizar la manufactura de chips, pero los altos costos y el tiempo necesario para construir nuevas fábricas podrían prolongar la crisis durante años."
+          "termino": "Erupción volcánica de gran magnitud",
+          "descripcion": "La actividad volcánica extrema puede desencadenar una erupción de gran magnitud."
         },
         {
-          "termino": "Prolongada recesión económica ",
-          "descripcion": "La economía global entra en una fase de recesión prolongada, marcada por un crecimiento anémico, desaceleración del comercio, caída del consumo y pérdida de confianza en los mercados. El endeudamiento excesivo de los gobiernos, la crisis energética, la desindustrialización en economías avanzadas y el impacto de conflictos geopolíticos están profundizando la contracción económica en diversas regiones. Como impacto, la recesión prolongada provocaría desempleo masivo, colapso de pequeñas y medianas empresas, presión sobre los sistemas de bienestar social y mayor desigualdad, mientras que los gobiernos se enfrentan a dificultades para aplicar políticas monetarias y fiscales efectivas. En un contexto de reconfiguración de la economía global y aceleración de la automatización, la recuperación dependerá de la adaptación a nuevos modelos productivos y la capacidad de resiliencia de los sectores estratégicos."
+          "termino": "Uso de la justicia a favor de la acción climática",
+          "descripcion": "El uso de la justicia a favor de la acción climática consiste en emplear tribunales para exigir que gobiernos y empresas reduzcan emisiones, protejan el ambiente y respeten derechos relacionados con el cambio climático."
         },
         {
-          "termino": "Escalada de la Muskonomía   ",
-          "descripcion": "El ecosistema empresarial de Elon Musk se consolida como un pilar clave en la economía global, con sus compañías liderando sectores estratégicos como la banda ancha satelital, los vehículos eléctricos, la exploración espacial y la inteligencia artificial. El respaldo de gobiernos a la transición energética, la necesidad de conectividad global, la descarbonización del transporte y el impulso a la industria espacial comercial están favoreciendo un entorno donde empresas como Tesla, SpaceX, Starlink y Neuralink adquieren un peso determinante en la economía del futuro. Como impacto, la 'muskonomía' podría acelerar la innovación tecnológica, transformar industrias enteras, generar nuevas oportunidades de empleo y alterar la geopolítica del desarrollo tecnológico, pero también plantea riesgos de concentración de poder en manos de una sola corporación, dependencia de sus infraestructuras, tensiones con reguladores globales, pero sobre todo la predominancia de tecnologías sin control ético, altamente riesgosas. En un contexto donde la disrupción tecnológica redefine la economía global, la influencia del ecosistema Musk podría marcar el rumbo de las próximas décadas, estableciendo un nuevo paradigma de desarrollo económico basado en la tecnología avanzada y la exploración espacial."
+          "termino": "Fracaso de la acción climática",
+          "descripcion": "El fracaso de la acción climática se refiere a la incapacidad de los líderes mundiales para tomar medidas suficientes y urgentes frente al cambio climático, a pesar de las advertencias científicas. Esto ha provocado impactos graves e inevitables como olas de calor, huracanes, inundaciones y pérdida de biodiversidad."
         },
         {
-          "termino": "Guerra comercial sin cuartel y fin del libre comercio   ",
-          "descripcion": "El sistema de libre comercio global se desmorona a medida que las grandes potencias entran en una guerra comercial total, caracterizada por aranceles extremos, restricciones a la exportación de tecnologías estratégicas y el debilitamiento de organismos multilaterales. El desacoplamiento económico entre EE.UU. y China, la competencia por el dominio en semiconductores, la militarización del comercio energético y la crisis en las cadenas de suministro están acelerando esta fragmentación. Como impacto, el fin del libre comercio provocaría inflación descontrolada, desabastecimiento de productos esenciales, encarecimiento de tecnologías críticas y un resurgimiento del proteccionismo en todo el mundo, afectando especialmente a las economías emergentes. A largo plazo, la división del comercio global en bloques económicos rivales podría reconfigurar el orden mundial, fortalecer mercados regionales cerrados y obligar a los países a redefinir sus alianzas económicas en un contexto de creciente incertidumbre y competencia geopolítica."
+          "termino": "Aparición de zonas no habitables por temperaturas extremas",
+          "descripcion": "El calor extremo combinado con alta humedad puede exceder la capacidad humana de termorregulación, creando zonas geográficas inhabitables. Estas condiciones ya amenazan regiones como el Sahel, el sur de Asia y Oriente Medio."
+        },
+        {
+          "termino": "Regeneración natural de ecosistemas degradados por proyectos bioeconómicos",
+          "descripcion": "Se refiere a la recuperación activa y sostenible de entornos naturales dañados por actividades humanas, como la agricultura intensiva o la explotación de recursos, mediante prácticas que restauran la biodiversidad."
+        },
+        {
+          "termino": "Abandono de zonas costeras por aumento del nivel del mar",
+          "descripcion": "Se refiere al desplazamiento forzado de comunidades humanas debido al avance del mar, provocado por el derretimiento de glaciares y la expansión térmica de los océanos."
+        },
+        {
+          "termino": "Transformación del Amazonas en sabana por pérdida de humedad",
+          "descripcion": "La transformación del Amazonas en sabana ocurre por la pérdida de humedad provocada por la deforestación, incendios y sequías prolongadas."
+        },
+        {
+          "termino": "Colapso de biodiversidad andina por sobreexplotación",
+          "descripcion": "Ocurre cuando los recursos naturales son extraídos a un ritmo mayor al que pueden regenerarse, lo que lleva a la disminución acelerada de especies y ecosistemas."
+        },
+        {
+          "termino": "La era post-plástico",
+          "descripcion": "Es una etapa emergente en la que la sociedad transita hacia modelos económicos y tecnológicos que reducen drásticamente el uso de plásticos. Implica sustituir materiales plásticos por alternativas sostenibles, mejorar el reciclaje y fomentar la reutilización, impulsando así una economía circular."
+        }
+      ]
+
+
+    },
+    "Salud, Biotecnología y Bioseguridad": {
+      "color": "#FFC107",
+      "terminos": [
+        {
+          "termino": "Liberación de patógenos por deshielo de glaciares",
+          "descripcion": "El deshielo de glaciares por el cambio climático libera patógenos antiguos atrapados por milenios."
+        },
+        {
+          "termino": "Transformación del sistema de salud hacia hospitales virtuales",
+          "descripcion": "Hospitales virtuales reemplazan modelos tradicionales. IA, sensores y telemedicina descentralizan la atención, mejorando acceso y eficiencia."
+        },
+        {
+          "termino": "Amenaza de bioterrorismo con patógenos modificados",
+          "descripcion": "Bioterrorismo es cuando el uso de patógenos modificados genéticamente se convierten en armas de destrucción masiva."
+        },
+        {
+          "termino": "Normalización de la cirugía robótica",
+          "descripcion": "Precisión quirúrgica aumentada por inteligencia artificial redefine la medicina moderna. Robots autónomos, realidad aumentada y telecirugía permiten intervenciones mínimamente invasivas."
+        },
+        {
+          "termino": "Resurgimiento de especies extintas mediante biotecnología",
+          "descripcion": "La clonación y edición genética traen de vuelta a criaturas desaparecidas."
+        },
+        {
+          "termino": "Contaminación silenciosa de los alimentos",
+          "descripcion": "Pesticidas, microplásticos y metales pesados se infiltran en la cadena alimentaria."
+        },
+        {
+          "termino": "Longevidad extrema con biotecnología avanzada",
+          "descripcion": "Terapias génicas, senolíticos y reprogramación celular abren la puerta a extender radicalmente la vida humana."
+        },
+        {
+          "termino": "Normalización del biohacking",
+          "descripcion": "La modificación del cuerpo humano mediante implantes, edición genética y tecnología biomédica se expande más allá del ámbito clínico."
+        },
+        {
+          "termino": "Descontrol por agentes biológicos sintéticos",
+          "descripcion": "La biología sintética permite crear organismos artificiales con rapidez y precisión."
+        },
+        {
+          "termino": "Creación de superhumanos o superespecies",
+          "descripcion": "La manipulación genética y la fusión hombre-máquina están allanando el camino hacia seres con capacidades superiores."
+        },
+        {
+          "termino": "Incontrolables pandemias más graves",
+          "descripcion": "La combinación de globalización, presión ecológica y biotecnología eleva la probabilidad de pandemias."
+        },
+        {
+          "termino": "Cambios epigenéticos por polución del aire",
+          "descripcion": "La contaminación del aire está generando cambios epigenéticos en el ADN humano, afectando la expresión genética sin alterar su secuencia."
+        }
+      ]
+    },
+    "sociedad y Estilos de vida": {
+      "color": "#FFC107",
+      "terminos": [
+        {
+          "termino": "Expansión de la ansiedad climática",
+          "descripcion": "La ansiedad climática crece entre jóvenes que ven su futuro marcado por la crisis ambiental. Decisiones como tener hijos o migrar reflejan una preocupación existencial."
+        },
+        {
+          "termino": "Propagación de bots como influencers ocultos",
+          "descripcion": "La propagación de bots impulsados por IA está manipulando la opinión pública y distorsionando el entorno digital sin que los usuarios lo perciban."
+        },
+        {
+          "termino": "Extinción de idiomas originarios",
+          "descripcion": "La extinción de idiomas originarios implica la pérdida de saberes ancestrales, identidad cultural y diversidad lingüística."
+        },
+        {
+          "termino": "Normalización de la educación inmersiva",
+          "descripcion": "La educación inmersiva está transformando el aprendizaje al integrar realidad virtual, aumentada e inteligencia artificial en entornos interactivos."
+        },
+        {
+          "termino": "Emergen movimientos juveniles hiperconectados",
+          "descripcion": "Los movimientos juveniles hiperconectados usan redes sociales como plataformas clave para el activismo y la participación cívica."
+        },
+        {
+          "termino": "Sistemas autónomos de crianza y educación",
+          "descripcion": "Surgen sistemas autónomos de crianza y educación que promueven el desarrollo infantil a través de hábitos diarios, decisiones propias y rutinas."
+        },
+        {
+          "termino": "Polarización religiosa o ideológica extrema",
+          "descripcion": "La polarización religiosa o ideológica extrema se manifiesta cuando disminuye el espacio intermedio entre grupos muy religiosos y no religiosos, y se intensifican las diferencias."
+        },
+        {
+          "termino": "Revoluciones digitales impulsadas por ciudadanía aumentada",
+          "descripcion": "Las revoluciones digitales impulsadas por ciudadanía aumentada surgen cuando tecnologías avanzadas y métodos participativos transforman la gestión urbana y ambiental, empoderando a la población para influir activamente en decisiones públicas."
+        },
+        {
+          "termino": "Mayor demanda por parte de comensales sostenibles",
+          "descripcion": "Refleja una creciente conciencia sobre el impacto ambiental de la alimentación, impulsando a productores y marcas a adoptar prácticas responsables."
+        },
+        {
+          "termino": "Surgimientos de estilos de vida líquidos (Liquid Lifestyles)",
+          "descripcion": "El surgimiento de estilos de vida líquidos prioriza lo momentáneo sobre lo permanente."
+        },
+        {
+          "termino": "Surgimiento de una humanidad ermitaña",
+          "descripcion": "El surgimiento de una humanidad ermitaña describe un cambio hacia el aislamiento social, exacerbada por la pandemia y reforzada por estilos de vida digitales."
+        }
+        
+      ]
+    },
+    "Democracia y Gobernabilidad": {
+      "color": "#FFC107",
+      "terminos": [
+        {
+          "termino": "Guerra civil por convulsión social",
+          "descripcion": "Describe el estallido violento interno provocado por desigualdad extrema, colapso institucional y polarización."
+        },
+        {
+          "termino": "Captura criminal del Estado y pérdida del control territorial en el Perú",
+          "descripcion": "Describe cómo redes delictivas dominan instituciones clave, instaurando un poder paralelo en regiones estratégicas."
+        },
+        {
+          "termino": "Fragilidad del Estado de derecho en el Perú",
+          "descripcion": "La fragilidad del Estado de derecho en el Perú se manifiesta en la captura institucional, la corrupción sistémica y la impunidad, lo que debilita la gobernabilidad y la aplicación de la ley."
+        },
+        {
+          "termino": "Fin de la democracia y retorno al autoritarismo",
+          "descripcion": "El retroceso democrático y el auge del autoritarismo reflejan un cambio hacia gobiernos centralizados."
+        },
+        {
+          "termino": "Desarrollo de políticas e instituciones inclusivas",
+          "descripcion": "El desarrollo de políticas e instituciones inclusivas busca garantizar la participación equitativa de todos los grupos sociales en la toma de decisiones."
+        },
+        {
+          "termino": "Adopción de la democracia líquida",
+          "descripcion": "La democracia líquida combina participación directa y delegada, permitiendo a los ciudadanos decidir o transferir su voto de forma flexible."
+        },
+        {
+          "termino": "Imposición de Régimen de excepción prolongado",
+          "descripcion": "Refleja un uso extendido y controvertido de medidas extraordinarias, originalmente temporales, para restaurar el orden ante amenazas persistentes."
+        },
+        {
+          "termino": "Constitución de regiones autónomas o federalistas",
+          "descripcion": "El aumento de regiones autónomas o federalistas refleja el auge de movimientos separatistas que buscan mayor autogobierno o independencia."
+        },
+        {
+          "termino": "Red de Jueces automatizados y justicia predictiva",
+          "descripcion": "Integra inteligencia artificial en los sistemas judiciales para apoyar decisiones legales y agilizar procesos."
+        },
+        {
+          "termino": "Plataformas ciudadanas de fiscalización descentralizada de fiscalización del poder",
+          "descripcion": "Las plataformas ciudadanas de fiscalización descentralizada del poder son herramientas digitales que permiten a la ciudadanía monitorear y participar en la gobernanza."
+        }
+        
+      ]
+    },
+    "Economía, Finanzas y Empleo": {
+      "color": "#FFC107",
+      "terminos": [
+        {
+          "termino": "Colapso económico en Estados Unidos",
+          "descripcion": "El colapso económico en Estados Unidos es una caída abrupta y severa de su sistema financiero y productivo."
+        },
+        {
+          "termino": "Prolongada recesión económica",
+          "descripcion": "La economía global entra en una fase de recesión prolongada, marcada por un crecimiento anémico, desaceleración del comercio, caída del consumo y pérdida de confianza en los mercados."
+        },
+        {
+          "termino": "Universalización de la renta básica",
+          "descripcion": "Proceso por el cual se extiende la implementación de un ingreso regular, incondicional y garantizado a toda la población."
+        },
+        {
+          "termino": "Crecimiento de startups en biotecnología andina",
+          "descripcion": "El crecimiento de startups en biotecnología andina se refiere al surgimiento de empresas innovadoras que utilizan recursos genéticos y conocimientos tradicionales de la región andina."
+        },
+        {
+          "termino": "Consolidación de Perú como hub biotecnológico amazónico",
+          "descripcion": "Posicionamiento del país como centro regional de innovación y transferencia tecnológica en agricultura tropical amazónica."
+        },
+        {
+          "termino": "Dominio global de criptomonedas descentralizadas",
+          "descripcion": "Su crecimiento impulsa una economía digital sin intermediarios, basada en tecnología blockchain y finanzas descentralizadas."
+        },
+        {
+          "termino": "(Des)globalización",
+          "descripcion": "Proceso en el que la expansión de la integración global se desacelera o revierte parcialmente."
+        },
+        {
+          "termino": "Consolidación de BRICS+ como Alternativa Financiera Global",
+          "descripcion": "La consolidación de BRICS como alternativa financiera global refiere al fortalecimiento del bloque para reducir la dependencia."
+        },
+        {
+          "termino": "Pérdida de la hegemonía del dólar estadounidense",
+          "descripcion": "La desdolarización es el proceso mediante el cual se reduce gradualmente el uso del dólar estadounidense en transacciones comerciales, financieras y como moneda de reserva."
+        }
+      ]
+    },
+    "Geopolítica": {
+      "color": "#FFC107",
+      "terminos": [
+        {
+          "termino": "Escalada de una guerra nuclear",
+          "descripcion": "La intensificación de conflictos geopolíticos y la escalada de tensiones entre potencias con armamento nuclear desencadenan un enfrentamiento con el uso de armas atómicas."
+        },
+        {
+          "termino": "Ataques a satélites",
+          "descripcion": "Los satélites, esenciales para comunicaciones, defensa y economía digital, se han vuelto blancos estratégicos en conflictos y ciberataques."
+        },
+        {
+          "termino": "Extinción de la Unión Europea",
+          "descripcion": "La extinción de la Unión Europea podría darse por tensiones políticas, crisis económicas y el auge del nacionalismo."
+        },
+        {
+          "termino": "Prolongada interrupción en la cadena de semiconductores",
+          "descripcion": "La fabricación global de semiconductores, esenciales para industrias como la electrónica, la automoción y la inteligencia artificial, puede enfrentar una interrupción prolongada debido a una combinación."
+        },
+        {
+          "termino": "Guerra total en Oriente Medio",
+          "descripcion": "Las crecientes tensiones geopolíticas, disputas territoriales, conflictos religiosos y rivalidades entre potencias regionales podrían desencadenar una guerra de gran escala en Oriente Medio."
+        },
+        {
+          "termino": "Guerra entre China y Taiwán",
+          "descripcion": "El conflicto latente entre China y Taiwán escala a una guerra abierta, con intervención militar directa y posibles enfrentamientos regionales."
+        },
+        {
+          "termino": "Disolución de la OTAN",
+          "descripcion": "La Organización del Tratado del Atlántico Norte (OTAN) se desintegra como consecuencia de fracturas internas, cambios en la geopolítica global y la pérdida de consenso entre sus miembros."
+        },
+        {
+          "termino": "Guerra entre las Coreas",
+          "descripcion": "El frágil equilibrio en la península de Corea colapsa y el conflicto entre Corea del Norte y Corea del Sur se reanuda con enfrentamientos militares a gran escala."
+        },
+        {
+          "termino": "Tercera guerra mundial",
+          "descripcion": "Las crecientes tensiones geopolíticas, la competencia por recursos estratégicos y el auge de conflictos regionales escalan hacia una guerra global con la participación de múltiples potencias militares."
+        },
+        {
+          "termino": "Gigantes tecnológicos y la erosión de la soberanía global",
+          "descripcion": "El control estratégico de recursos críticos, como los microchips de alta gama, y el dominio de plataformas digitales por grandes empresas tecnológicas están redefiniendo el equilibrio de poder global."
+        },
+        {
+          "termino": "Guerra comercial sin cuartel y fin del libre comercio",
+          "descripcion": "El sistema de libre comercio global se desmorona a medida que las grandes potencias entran en una guerra comercial total."
+        },
+        {
+          "termino": "Política del más fuerte vuelve a imperar en el mundo",
+          "descripcion": "El mundo entra en una nueva era de realpolitik, donde la diplomacia y el multilateralismo pierden relevancia frente a la imposición del poder militar, económico y tecnológico por parte de las grandes potencias."
+        },
+        {
+          "termino": "Fin de la supremacía militar estadounidense",
+          "descripcion": "El dominio militar de Estados Unidos enfrenta nuevos desafíos en un campo de batalla transformado por la tecnología."
+        }
+      ]
+    },
+    "Inteligencia Artificial": {
+      "color": "#FFC107",
+      "terminos": [
+        {
+          "termino": "Surgimiento de la IA explicable",
+          "descripcion": "La IA explicable (XAI) surge como respuesta a la opacidad de los modelos generativos, permitiendo comprender y auditar sus decisiones."
+        },
+        {
+          "termino": "Fracaso en la adopción de la IA",
+          "descripcion": "El fracaso en la adopción de la IA se puede deber a regulaciones restrictivas, brechas digitales, resistencia laboral y preocupaciones éticas."
+        },
+        {
+          "termino": "Surgimiento de la Inteligencia Artificial General",
+          "descripcion": "El desarrollo de la Inteligencia Artificial General marca un punto de inflexión en la relación entre humanos y tecnología, al crear un sistema con capacidades cognitivas superiores a las de cualquier ser humano."
+        },
+        {
+          "termino": "Desconfianza en la IA por fracasos emblemáticos",
+          "descripcion": "La inteligencia artificial, a pesar de su rápido avance, enfrenta una creciente desconfianza pública y regulatoria debido a fracasos emblemáticos en aplicaciones críticas."
+        },
+        {
+          "termino": "Pérdida de control de la IA",
+          "descripcion": "El avance acelerado de la inteligencia artificial (IA) plantea el riesgo de que sistemas altamente autónomos operen fuera del control humano, generando consecuencias impredecibles."
+        },
+        {
+          "termino": "Control de contenidos e influencia con IA por agentes no autorizados",
+          "descripcion": "El uso malintencionado de inteligencia artificial por parte de actores no autorizados, como grupos extremistas o ciberdelincuentes, permite la manipulación masiva de contenidos en redes sociales, la creación de deepfakes y la propagación de desinformación."
+        },
+        {
+          "termino": "Propagación de modelos de IA ultraeficientes y portátiles",
+          "descripcion": "La propagación de modelos de IA ultraeficientes y portátiles permite ejecutar tareas avanzadas sin depender de la nube, mejorando privacidad, velocidad y accesibilidad."
+        },
+        {
+          "termino": "Carrera armamentística de la IA",
+          "descripcion": "La llamada “carrera armamentística de la IA” refleja una competencia geopolítica por el liderazgo tecnológico entre China, EE. UU. y la UE."
+        }
+      ]
+    },
+    "Infraestructura y Ciudades": {
+      "color": "#FFC107",
+      "terminos": [
+        {
+          "termino": "Normalización de robotaxis y taxis aéreos",
+          "descripcion": "Los robotaxis y taxis aéreos autónomos están en camino de transformar la movilidad urbana, ofreciendo transporte eficiente, rápido y sostenible en ciudades congestionadas."
+        },
+        {
+          "termino": "Normalización de ciudades submarinas",
+          "descripcion": "La normalización de ciudades submarinas plantea un nuevo modelo de habitabilidad autosostenible bajo el mar, impulsado por avances tecnológicos."
         },
         {
           "termino": "Predominio de vehículos eléctricos",
-          "descripcion": "En Nysa, al suroeste de Polonia, una moderna planta industrial se ha convertido en un eslabón clave para la producción de vehículos eléctricos (EVs). En lugar de fabricar automóviles, esta instalación es la primera en Europa en producir a gran escala materiales esenciales para las baterías, que tradicionalmente son costosos, difíciles de obtener y mayormente procesados en China. Este avance marca un paso importante en la independencia de la cadena de suministro europea y en la expansión del mercado de los EVs."
+          "descripcion": "El predominio de vehículos eléctricos avanza con el fortalecimiento de cadenas de suministro propias."
+        },
+        {
+          "termino": "Colonias urbanas flotantes por cambio climático",
+          "descripcion": "Colonias urbanas flotantes son nuevas formas de asentamiento diseñadas para adaptarse al aumento del nivel del mar."
+        },
+        {
+          "termino": "Conectividad territorial por transporte hipersónico",
+          "descripcion": "El uso de vehículos ultra rápidos reduce drásticamente los tiempos de viaje entre regiones."
+        },
+        {
+          "termino": "Prohibición global del uso de combustibles fósiles",
+          "descripcion": "La prohibición global del uso de combustibles fósiles avanza como respuesta urgente a la crisis climática."
+        },
+        {
+          "termino": "Marca ciudad y construcción de confianza",
+          "descripcion": "La marca ciudad construye una identidad única que diferencia a una ciudad del resto, fomentando orgullo, pertenencia y proyección global."
+        },
+        {
+          "termino": "Colapso del sistema energético global",
+          "descripcion": "El colapso del sistema energético global implica una caída generalizada en la producción, distribución y acceso a la energía."
+        }
+      ]
+    },
+    "Telecomunicaciones y Ciberseguridad": {
+      "color": "#FFC107",
+      "terminos": [
+        {
+          "termino": "Despegue de redes 6G e hiperconectividad",
+          "descripcion": "La llegada de las redes 6G marca un salto exponencial en la velocidad y capacidad de conexión, con velocidades hasta 500 veces más rápidas que el 5G."
+        },
+        {
+          "termino": "Ciberataque a gran escala",
+          "descripcion": "Un ciberataque a gran escala podría colapsar infraestructuras críticas, paralizar gobiernos y provocar una crisis global."
+        },
+        {
+          "termino": "Ruptura de ciberseguridad con capacidades cuánticas",
+          "descripcion": "La computación cuántica podría romper la encriptación actual, exponiendo datos críticos y sistemas globales."
+        },
+        {
+          "termino": "Fin de la Internet abierta",
+          "descripcion": "La expansión de la IA amenaza la apertura de internet, impulsando bloqueos, restricciones y paywalls."
+        },
+        {
+          "termino": "Hackeo masivo de plataformas educativas nacionales",
+          "descripcion": "Un hackeo masivo a plataformas educativas nacionales expondría datos sensibles, paralizaría servicios académicos y facilitaría extorsiones o espionaje."
+        },
+        {
+          "termino": "Caída de grandes plataformas tecnológicas",
+          "descripcion": "Una falla crítica en el sistema de enrutamiento global puede provocar la caída masiva de plataformas tecnológicas como Google, Spotify, Amazon y servicios bancarios, afectando a millones de usuarios."
+        },
+        {
+          "termino": "Colapso de Internet",
+          "descripcion": "Un colapso total de internet desencadenaría caos global al paralizar comunicaciones, servicios, economía y gobiernos."
+        }
+      ]
+    },
+    "Innovaciones Disruptivas y Fabricación Avanzada": {
+      "color": "#FFC107",
+      "terminos": [
+        {
+          "termino": "Plena digitalización del mundo real al mundo virtual",
+          "descripcion": "La digitalización total permite trasladar actividades humanas al entorno virtual mediante XR, IA, IoT y computación avanzada. Surgen ciudades, economías y sociedades digitales hiperrealistas, expandiendo el metaverso."
+        },
+        {
+          "termino": "Normalización de la computación espacial",
+          "descripcion": "La computación espacial, al integrar IA, realidad aumentada y sensores en tiempo real, permite fusionar el mundo físico y digital."
+        },
+        {
+          "termino": "Mayor implementación de la manufactura aditiva 4D",
+          "descripcion": "La manufactura aditiva 4D permite crear objetos que se transforman con estímulos como temperatura o humedad."
+        },
+        {
+          "termino": "Uso generalizado de implantes neuronales",
+          "descripcion": "Los implantes neuronales, que inicialmente se concibieron como un mecanismo para facilitar la recuperación de capacidades en personas con parálisis o enfermedades neurológicas, se convierten en una tecnología de uso común."
+        },
+        {
+          "termino": "Impresión 3D aplicada a la industria de la construcción",
+          "descripcion": "La impresión 3D en la construcción permite edificar de forma rápida, automatizada y sostenible, transformando el acceso a la vivienda y las infraestructuras."
+        },
+        {
+          "termino": "Normalización de la robótica humanoide",
+          "descripcion": "La normalización de la robótica humanoide transforma industrias al integrar máquinas que imitan comportamientos humanos en tareas complejas."
+        },
+        {
+          "termino": "Revelación de secretos ancestrales mediante tecnologías avanzadas",
+          "descripcion": "La revelación de secretos ancestrales mediante tecnologías avanzadas permite descifrar textos históricos, esto redefine la comprensión de civilizaciones antiguas."
+        },
+        {
+          "termino": "Despegue de aplicaciones de la teletransportación cuántica",
+          "descripcion": "El despegue de la teletransportación cuántica permite transferir información entre partículas entrelazadas sin conexión física, abriendo paso a redes de comunicación ultraseguras y nuevas formas de computación."
+        },
+        {
+          "termino": "Normalización de la computación cuántica",
+          "descripcion": "La computación cuántica, basada en fenómenos como la superposición y el entrelazamiento, comienza a integrarse como herramienta clave en sectores estratégicos, desde la criptografía hasta la farmacología. Su uso generalizado promete resolver problemas imposibles para los ordenadores clásicos, aunque aún enfrenta retos técnicos antes de una adopción masiva."
+        },
+        {
+          "termino": "Conectividad neuronal global",
+          "descripcion": "Mentes humanas conectadas a una red global de conocimiento transformaría la educación y la identidad."
+        },
+        {
+          "termino": "Nuevos materiales sostenibles",
+          "descripcion": "Están diseñados para ser reciclables, biodegradables o de bajo consumo energético."
+        },
+        {
+          "termino": "Surgimiento de computadoras biológicas basada en neuronas humanas (CL1)",
+          "descripcion": "Surge una nueva era con computadoras biológicas como la CL1, que usan neuronas humanas cultivadas para procesar información."
+        }
+      ]
+    },
+    "Física y Espacio Exterior": {
+      "color": "#FFC107",
+      "terminos": [
+        {
+          "termino": "Gran tormenta solar",
+          "descripcion": "Una gran tormenta solar es un evento extremo del clima espacial."
+        },
+        {
+          "termino": "Despegue de la minería espacial para explotación de recursos",
+          "descripcion": "La minería espacial se convierte en una industria viable con la extracción de metales raros, agua y otros recursos de asteroides y de la Luna."
+        },
+        {
+          "termino": "Normalización de la tecnología espacial (turismo, minería y asentamientos espaciales)",
+          "descripcion": "La normalización de la tecnología espacial impulsa una nueva etapa de expansión humana con turismo orbital, minería extraterrestre y asentamientos en la Luna y Marte."
+        },
+        {
+          "termino": "Hibernación humana en la era espacial",
+          "descripcion": "La hibernación humana emerge como tecnología clave para la era espacial, al permitir viajes largos con menos recursos y menor deterioro físico."
+        },
+        {
+          "termino": "Descontrol de satélites: incremento de colisiones por basura espacial",
+          "descripcion": "El descontrol del tráfico satelital y la acumulación de basura espacial elevan el riesgo de colisiones en órbita, amenazando servicios esenciales y futuras misiones."
+        },
+        {
+          "termino": "Debilitamiento del campo magnético de la Tierra",
+          "descripcion": "El debilitamiento del campo magnético terrestre aumenta la exposición a radiación solar, amenazando satélites, redes eléctricas y sistemas de navegación."
+        },
+        {
+          "termino": "Colisión de asteroides y cometas",
+          "descripcion": "La colisión de un asteroide o cometa podría provocar catástrofes globales como extinciones masivas y desastres climáticos."
+        },
+        {
+          "termino": "Amenaza por explosiones de supernovas y estallidos de rayos gamma",
+          "descripcion": "Explosiones de supernovas o estallidos de rayos gamma cercanos podrían destruir la capa de ozono y exponer la Tierra a radiación letal."
+        },
+        {
+          "termino": "Fallo crítico en un acelerador de partículas",
+          "descripcion": "Un fallo crítico en un acelerador de partículas podría generar fenómenos extremos como microagujeros negros."
         }
       ]
     }
