@@ -1,11 +1,11 @@
 {
-  "titulo": "Glosario de términos: Eventos Futuros.",
-  "descripcion": "El presente tiene por finalidad presentar la definición de los eventos futuros identificados por el Centro Nacional de Planeamiento Estratégico (Ceplan) de acuerdo con las temáticas de estudio, los cuales serán empleados en la “Consulta técnica a expertos sobre eventos futuros 2026-2046+",
+  "titulo": "Glosario de términos: consulta técnica sobre eventos futuros que podrían afectar el desarrollo del perú (2026 - 2050)",
+  "descripcion": "El presente tiene por finalidad presentar la definición de los eventos futuros identificados por el Centro Nacional de Planeamiento Estratégico (Ceplan) de acuerdo con las temáticas de estudio, los cuales serán empleados en la “Consulta técnica sobre eventos futuros que podrían afectar el desarrollo del perú (2026 - 2050)”",
   "logo": "logo_ceplan.png",
   "logo_dark": "logo_ceplan_dark.png",
   "tematicas": {
     "Ambiente": {
-      "color": "#FFC107",
+      "color": "#4CAF50",
       "terminos": [
         {
           "termino": "Extraordinario Fenómeno de El Niño",
@@ -48,11 +48,9 @@
           "descripcion": "Es una etapa emergente en la que la sociedad transita hacia modelos económicos y tecnológicos que reducen drásticamente el uso de plásticos. Implica sustituir materiales plásticos por alternativas sostenibles, mejorar el reciclaje y fomentar la reutilización, impulsando así una economía circular."
         }
       ]
-
-
     },
     "Salud, Biotecnología y Bioseguridad": {
-      "color": "#FFC107",
+      "color": "#00BCD4",
       "terminos": [
         {
           "termino": "Liberación de patógenos por deshielo de glaciares",
@@ -104,8 +102,8 @@
         }
       ]
     },
-    "sociedad y Estilos de vida": {
-      "color": "#FFC107",
+    "Sociedad y Estilos de vida": {
+      "color": "#FF9800",
       "terminos": [
         {
           "termino": "Expansión de la ansiedad climática",
@@ -155,7 +153,7 @@
       ]
     },
     "Democracia y Gobernabilidad": {
-      "color": "#FFC107",
+      "color": "#3F51B5",
       "terminos": [
         {
           "termino": "Guerra civil por convulsión social",
@@ -242,7 +240,7 @@
       ]
     },
     "Geopolítica": {
-      "color": "#FFC107",
+      "color": "#C62828",
       "terminos": [
         {
           "termino": "Escalada de una guerra nuclear",
@@ -299,7 +297,7 @@
       ]
     },
     "Inteligencia Artificial": {
-      "color": "#FFC107",
+      "color": "#607D8B",
       "terminos": [
         {
           "termino": "Surgimiento de la IA explicable",
@@ -336,7 +334,7 @@
       ]
     },
     "Infraestructura y Ciudades": {
-      "color": "#FFC107",
+      "color": "#616161",
       "terminos": [
         {
           "termino": "Normalización de robotaxis y taxis aéreos",
@@ -373,7 +371,7 @@
       ]
     },
     "Telecomunicaciones y Ciberseguridad": {
-      "color": "#FFC107",
+      "color": "#00ACC1",
       "terminos": [
         {
           "termino": "Despegue de redes 6G e hiperconectividad",
@@ -406,7 +404,7 @@
       ]
     },
     "Innovaciones Disruptivas y Fabricación Avanzada": {
-      "color": "#FFC107",
+      "color": "#9C27B0",
       "terminos": [
         {
           "termino": "Plena digitalización del mundo real al mundo virtual",
@@ -459,7 +457,7 @@
       ]
     },
     "Física y Espacio Exterior": {
-      "color": "#FFC107",
+      "color": "#1A237E",
       "terminos": [
         {
           "termino": "Gran tormenta solar",
